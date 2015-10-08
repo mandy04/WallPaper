@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BB34613E-C1F1-42C3-A767-C2F25380204E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WallPaper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>a7841f7b-5e50-449b-a747-4b4f3e35947c++505</key>
+		<string>http://code.taobao.org/svn/ioswallpaper/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WallPaper/WallPaper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>a7841f7b-5e50-449b-a747-4b4f3e35947c++505</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>a7841f7b-5e50-449b-a747-4b4f3e35947c++505</key>
+		<string>http://code.taobao.org/svn/ioswallpaper</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://code.taobao.org/svn/ioswallpaper/trunk/WallPaper/WallPaper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>a7841f7b-5e50-449b-a747-4b4f3e35947c++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a7841f7b-5e50-449b-a747-4b4f3e35947c++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WallPaper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
